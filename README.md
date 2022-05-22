@@ -5,7 +5,7 @@
 # QoL Features
 
  * Readable on desktop and mobile
- * Interactive -- tooltips for runes and runewords
+ * Interactive -- tooltips for runes and runewords (now includes Patch 2.4)
    * Yellow highlight hover row pointer for all tables
  * click on runes to toggle "rune ownership"
    * Clean visual rune upgrades
@@ -44,11 +44,13 @@
     * Power Leveling
     * Level for each difficulty & area
  * 4os sword farming
- * 85 alvl (TC 84/87) farming info
+ * 85 alvl (TC 84/87) farming info  (Updated for Patch 2.4)
  * Monochrome/Color buttons
  * Lots of handy links to utils, calculators, etc.!
- * Thanks to everyone that caught bugs and offered suggestions that were implemented.
+ * Thanks to everyone that caught bugs and offered suggestions.
 
+
+Special thanks to walkawayy for 2.4 Runewords, Wyrda65 for updated alvl 85 info.
 
 # Wishlist
 
@@ -129,4 +131,4 @@ Hell        63-73  74-80  81-83  83-94  95-99
  * url param to keep state of collapsed tables.  Not needed since table collapse state is persistent.
 
 
-Last Updated: Sun, Oct 31, 2021
+Last Updated:Sat, May 14, 2022.
